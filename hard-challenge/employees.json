@@ -1,0 +1,72 @@
+[
+{
+    "employeeID": 1,
+    "name": "John Deer",
+    "salary": 50000,
+    "department": "HR"
+  },
+
+{
+    "employeeID": 2,
+    "name": "John Mayer",
+    "salary": 40000,
+    "department": "Customer Service"
+  },
+
+{
+    "employeeID": 3,
+    "name": "Kennidy Stillwell",
+    "salary": 400000,
+    "department": "CEO"
+  },
+
+{
+    "employeeID": 4,
+    "name": "ASAP Rocky",
+    "salary": 80000,
+    "department": "IT"
+  },
+
+{
+    "employeeID": 5,
+    "name": "Rhianna Rocky?",
+    "salary": 90000,
+    "department": "IT"
+  },
+
+{
+    "employeeID": 6,
+    "name": "Sam Cooke",
+    "salary": 60000,
+    "department": "IT"
+  },
+
+{
+    "employeeID": 7,
+    "name": "NLE Choppa",
+    "salary": 85000,
+    "department": "HR"
+  },
+
+{
+    "employeeID": 8,
+    "name": "Lego Batman",
+    "salary": 70000,
+    "department": "Customer Service "
+  },
+
+{
+    "employeeID": 9,
+    "name": "Bo Jangles",
+    "salary": 80000,
+    "department": "Culinary Arts"
+  },
+
+{
+    "employeeID": 10,
+    "name": "Elon Musk",
+    "salary": 20000,
+    "department": "Janitorial"
+  }
+
+]
