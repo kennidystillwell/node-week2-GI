@@ -8,7 +8,7 @@
 
 {
     "employeeID": 2,
-    "name": "John Mayer",
+    "name": "John Doe",
     "salary": 40000,
     "department": "Customer Service"
   },
@@ -36,7 +36,7 @@
 
 {
     "employeeID": 6,
-    "name": "Sam Cooke",
+    "name": "SZA",
     "salary": 60000,
     "department": "IT"
   },
@@ -45,7 +45,7 @@
     "employeeID": 7,
     "name": "NLE Choppa",
     "salary": 85000,
-    "department": "HR"
+    "department": "HR Manager"
   },
 
 {
